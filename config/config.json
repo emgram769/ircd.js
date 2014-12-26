@@ -8,11 +8,13 @@
   "whoWasLimit": 10000,
   "token": 1,
   "opers": {
-    "alex": { "password": "$2a$10$T1UJYlinVUGHqfInKSZQz./CHrYIVVqbDO3N1fRNEUvFvSEcshNdC" }
+    "emgram": { "password": "bram123" }
   },
   "channels": {
-    "channel1": { "topic": "First Channel" },
-    "channel2": { "topic": "Second Channel" }
+    "int": { "topic": "International" },
+    "g": { "topic": "Tech General" },
+    "v": { "topic": "Happenings General" },
+    "dev": { "topic": "Development" }
   },
   "links": {
     "server2": { "host": "127.0.0.1",
